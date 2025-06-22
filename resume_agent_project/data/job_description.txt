@@ -1,0 +1,32 @@
+Job Title: AI Developer – Gesture Control Systems
+
+Location: Bengaluru, India (Remote Friendly)
+
+Company: MotionTech AI
+
+Job Overview:
+We are seeking an AI Developer with expertise in computer vision and gesture recognition systems. The candidate will work on building real-time, intuitive gesture-based interfaces for consumer and enterprise applications.
+
+Responsibilities:
+- Develop and maintain gesture control systems using computer vision.
+- Integrate hand-tracking modules (e.g., MediaPipe, OpenCV).
+- Implement and optimize machine learning models for motion detection.
+- Work with APIs and tools to control system functions (volume, screen brightness, cursor, etc.) using gestures.
+- Collaborate with UI/UX and hardware teams for seamless product integration.
+
+Required Skills:
+- Strong experience with Python and OpenCV.
+- Hands-on with **MediaPipe**, **cvzone**, or other hand tracking libraries.
+- Familiar with PyAutoGUI, screen control packages, and OS-level automation.
+- Basic knowledge of LLMs, LangChain, or Whisper is a plus.
+- Ability to design agentic workflows is a strong advantage.
+
+Nice to Have:
+- Experience with Streamlit or Gradio for UI
+- Familiarity with voice or multimodal input systems
+- Prior hackathon or freelance experience on gesture/NLP-based tools
+
+Why Join Us:
+- Build next-gen human-computer interaction systems.
+- Work on projects that blend AI, vision, and interactivity.
+- Join a fast-growing AI-first startup culture.
